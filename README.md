@@ -6,5 +6,5 @@ Data CLeaning:
 Data Visualization
 1) Removed Insights from data
 
-Data Transformation 
+Feature Engineering 
 1) Converted Categorical data to Numerical data by using onehot encoding and LabelEncoder
